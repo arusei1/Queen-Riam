@@ -1,18 +1,18 @@
 const settings = {
   packname: 'Queen Riam',
-  author: 'Hecor Manuel',
-  botName: "Queen Riam",
-  botOwner: 'Hector Manuel', 
-  timezone: 'Africa/Accra',
+  author: 'Hecor vicky',
+  botName: "king vicky",
+  botOwner: 'king vicky', 
+  timezone: 'Africa/Nairobi',
   prefix: '.',
-  ownerNumber: '+233509977126', 
+  ownerNumber: '+254115530969', 
   AUTO_STATUS_REACT: 'true',
-  AUTO_STATUS_REPLY: 'false',
-  AUTO_STATUS_MSG: 'Status Viewed Queen Riam',
+  AUTO_STATUS_REPLY: 'true',
+  AUTO_STATUS_MSG: 'Status Viewed vicky kijana mdogo',
 
-  AUTORECORD: 'false',
-  AUTOTYPE: 'false',
-  AUTORECORDTYPE: 'false',
+  AUTORECORD: 'true',
+  AUTOTYPE: 'true',
+  AUTORECORDTYPE: 'true',
   
 
   
